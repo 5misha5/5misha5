@@ -1,16 +1,38 @@
-### Hi there 👋
+# Misha Oborin
+Kyiv, Ukraine | +380 96-97-97-204 | mykhailooborin@gmail.com
 
-<!--
-**5misha5/5misha5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 
 
-Here are some ideas to get you started:
+I am a backend Django developer, currently studying Bachelor's of Applied Math at Kyiv-Mohyla Academy.
+Now, I'm deeping my knowledge at django and learning new techologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Experience
+### Developer
+**FIdo** | Kyiv, Ukraine | September 2023 - present
+- Maintaining the scheduler telegram bot
+
+## Skills
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='django' height='14'> Django
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='14'> Python
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='python' height='14'> HTML, CSS
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='js' height='14'> JS
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='sql' height='14'> SQL
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='nodejs' height='14'> NodeJS
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='14'> Git
+
+# Education
+- Kyiv-Mohyla Academy, Specialization: Applied Math | 2022 - 2026
+
+
+## Lenguages
+- Ukraine (Native)
+- English (Intermediate)
+
+## Contacts
+
+
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/5misha5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/misha-oborin-353a30238//)  
