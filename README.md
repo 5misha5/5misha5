@@ -20,6 +20,7 @@ Now, I'm deeping my knowledge at django and learning new techologies
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='sql' height='14'> SQL
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='nodejs' height='14'> NodeJS
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='14'> Git
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sass.svg' alt='sass' height='14'> SCSS/SASS
 
 # Education
 - Kyiv-Mohyla Academy, Specialization: Applied Math | 2022 - 2026
@@ -30,9 +31,5 @@ Now, I'm deeping my knowledge at django and learning new techologies
 - English (Intermediate)
 
 ## Contacts
-
-
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/5misha5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/misha-oborin-353a30238//)  
