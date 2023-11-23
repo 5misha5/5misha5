@@ -19,10 +19,11 @@ Now, I'm deeping my knowledge at django and learning new techologies
 - <img src='https://expressjs.com/images/favicon.png' alt='expressjs' height='14'> Express.js
 
 ### Databases
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='sql' height='14'> SQL
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='sql' height='14'> MySQL
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg' alt='mongodb' height='14'> MongoDB
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sqlite.svg' alt='sql' height='14'> SQLite
 
-### Lenguages
+### Languages
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='14'> Python
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='js' height='14'> JS
 
@@ -32,12 +33,23 @@ Now, I'm deeping my knowledge at django and learning new techologies
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='14'> Git
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sass.svg' alt='sass' height='14'> SCSS/SASS
 
+## Soft Skills
 
-# Education
+- Communication
+- Self-Awareness
+- Patience
+- Open-Mindedness
+- Critical Thinking
+- Time Management 
+- Teamwork
+- Accountability
+
+
+## Education
 - Kyiv-Mohyla Academy, Specialization: Applied Math | 2022 - 2026
 
 
-## Lenguages
+## Languages
 - Ukraine (Native)
 - English (Intermediate)
 
