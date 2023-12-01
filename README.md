@@ -61,12 +61,3 @@ Now, I'm deeping my knowledge at django and learning new techologies
 ## Contacts
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/5misha5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/misha-oborin-353a30238//)  
-
-
-
-<!-- <style>
-    ul {
-        list-style-type: none;
-    }
-</style> -->
-    
