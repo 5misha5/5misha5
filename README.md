@@ -20,9 +20,14 @@ Now, I'm deeping my knowledge at django and learning new techologies
 - <img src='https://expressjs.com/images/favicon.png' alt='expressjs' height='14'> Express.js
 
 ### Databases
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='sql' height='14'> MySQL
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='mysql' height='14'> MySQL
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg' alt='mongodb' height='14'> MongoDB
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sqlite.svg' alt='sql' height='14'> SQLite
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sqlite.svg' alt='sqlite' height='14'> SQLite
+
+### Frontend
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='14'> React
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html' height='14'> HTML, CSS
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sass.svg' alt='sass' height='14'> SCSS/SASS
 
 ### Languages
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='14'> Python
@@ -30,9 +35,8 @@ Now, I'm deeping my knowledge at django and learning new techologies
 
 ### Others
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='nodejs' height='14'> NodeJS
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='python' height='14'> HTML, CSS
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='14'> Git
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sass.svg' alt='sass' height='14'> SCSS/SASS
+
 
 ## Soft Skills
 
@@ -57,6 +61,7 @@ Now, I'm deeping my knowledge at django and learning new techologies
 ## Contacts
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/5misha5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/misha-oborin-353a30238//)  
+
 
 
 <style>
