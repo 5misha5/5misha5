@@ -64,9 +64,9 @@ Now, I'm deeping my knowledge at django and learning new techologies
 
 
 
-<style>
+<!-- <style>
     ul {
         list-style-type: none;
     }
-</style>
+</style> -->
     
