@@ -3,7 +3,7 @@ Kyiv, Ukraine | +380 96-97-97-204 | mykhailooborin@gmail.com
 
 ## About me 
 
-I am a backend Django developer, currently studying Bachelor's of Applied Math at Kyiv-Mohyla Academy.
+I am a backend developer, currently studying Bachelor's of Applied Math at Kyiv-Mohyla Academy.
 Now, I'm deeping my knowledge at django and learning new techologies
 
 
