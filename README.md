@@ -1,5 +1,5 @@
 # Misha Oborin
-Kyiv, Ukraine | +380 96-97-97-204 | mykhailooborin@gmail.com
+Kyiv, Ukraine | +380 96-20-60-502 | mykhailooborin@gmail.com
 
 ## About me 
 
