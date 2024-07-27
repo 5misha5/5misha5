@@ -1,40 +1,47 @@
 # Misha Oborin
-Kyiv, Ukraine | +380 96-97-97-204 | mykhailooborin@gmail.com
+Kyiv, Ukraine | +380 96-20-60-502 | mykhailooborin@gmail.com
 
 ## About me 
 
-I am a backend developer, currently studying Bachelor's of Applied Math at Kyiv-Mohyla Academy.
-Now, I'm deeping my knowledge at django and learning new techologies
+I am a dedicated Computer Vision Engineer pursuing a Bachelor's degree in Applied Mathematics at the National University "Kyiv-Mohyla Academy." My studies have given me a strong foundation in probability theory, mathematical statistics, and optimization methods. I possess expertise in Python, and OOP principles, and hands-on experience with machine learning frameworks such as NumPy, pandas, OpenCV, and PyTorch.
 
 
 ## Experience
 ### Developer
 **FIdo** | Kyiv, Ukraine | September 2023 - present
-- Maintaining the scheduler telegram bot
+Maintained project and implemented new functional. Worked with database,
+scraped data from documents about the university schedule for every university
+major to create an automatic schedule for every week for students.
+
+## Projects
+### AIR ALERT PREDICTOR
+February 2024 - May 2024
+I led a project where my team created an application, which is predicting air
+alerts. We used weather information, the Institute for the Study of War's reports,
+and information about previous alerts to create a model that predicted alerts with
+~90% accuracy
+
+
 
 ## Skills
 
-### Backend Frameworks
+### ML Frameworks | Libraries
 
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='django' height='14'> Django
-- <img src='https://expressjs.com/images/favicon.png' alt='expressjs' height='14'> Express.js
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pytorch.svg' alt='pytorch' height='14'> PyTorch
+- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg' alt='tensorflow' height='14'> Tensorflow
+- <img src='' alt='' height='14'> scikit-learn
+- <img src='' alt='' height='14'> numpy
 
 ### Databases
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='mysql' height='14'> MySQL
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg' alt='mongodb' height='14'> MongoDB
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sqlite.svg' alt='sqlite' height='14'> SQLite
 
-### Frontend
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='14'> React
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html' height='14'> HTML, CSS
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sass.svg' alt='sass' height='14'> SCSS/SASS
-
 ### Languages
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='14'> Python
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='js' height='14'> JS
 
 ### Others
-- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='nodejs' height='14'> NodeJS
 - <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='14'> Git
 
 
